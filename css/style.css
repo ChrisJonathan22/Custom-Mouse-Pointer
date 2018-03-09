@@ -1,0 +1,17 @@
+#title {
+        color: teal;
+        background-color: lightgrey;
+}
+
+#customPointer {
+        width: 50px;
+        position: absolute;
+}
+
+.container2 {
+        width: 800px;
+        height: 500px;
+        background: #ccc;
+        border: 4px solid #333;
+        cursor: none;
+}
